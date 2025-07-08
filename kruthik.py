@@ -1,2 +1,2 @@
-print("varshith")
-print("kruthik")
+print("hi")
+print("hello")
